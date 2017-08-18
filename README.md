@@ -13,7 +13,7 @@ A partial list of the building blocks of Deep Learning architectures, with notes
 ![alt text](https://github.com/dformoso/deeplearning-mindmap/blob/master/concepts.png)
 
 ## 2. Architectures
-Different Deep Learning architectures have been developed depending on the question being answered. Here's a list of some of them and notes on optimisation.
+Different Deep Learning architectures have been developed depending on the question being answered. Here's a list of some of them and notes on tuning.
 ![alt text](https://github.com/dformoso/deeplearning-mindmap/blob/master/architecture.png)
 
 ## 3. Tensorflow
