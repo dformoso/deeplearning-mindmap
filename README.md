@@ -1,8 +1,8 @@
 # Deep Learning Mindmap / Cheatsheet
-A Mindmap summarising Deep Learning concepts, Architectures and the Tensorflow library.
+A Mindmap summarising Deep Learning concepts, Architectures, and the Tensorflow library.
 
 ## Overview
-Deep Learning is part of a broader family of Machine Learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, partially supervised or unsupervised. This is an attempt to summarize this large field in one .PDF file.
+Deep Learning is part of a broader family of Machine Learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, partially supervised, or unsupervised. This is an attempt to summarize this large field in one .PDF file.
 
 ## Download
 Download the PDF here: 
