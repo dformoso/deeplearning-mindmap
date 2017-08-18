@@ -4,6 +4,10 @@ A Mindmap summarising Deep Learning concepts, Architectures, and the Tensorflow 
 ## Overview
 Deep Learning is part of a broader family of Machine Learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, partially supervised, or unsupervised. This is an attempt to summarize this large field in one .PDF file.
 
+## Mindmap on Data Science
+Here's another mindmap which focuses on Machine Learning basics and Data Science.
+- https://github.com/dformoso/machine-learning-mindmap
+
 ## Download
 Download the PDF here: 
 - https://github.com/dformoso/deeplearning-mindmap/blob/master/Deep%20Learning%20v1.pdf
