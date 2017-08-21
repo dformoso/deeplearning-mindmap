@@ -16,14 +16,17 @@ I've built the mindmap with MindNode for the Mac. https://mindnode.com
 
 ## 1. Concepts
 A partial list of the building blocks of Deep Learning architectures, with notes on the mathematics behind each component.
+
 ![alt text](https://github.com/dformoso/deeplearning-mindmap/blob/master/images/concepts.png)
 
 ## 2. Architectures
 Different Deep Learning architectures have been developed depending on the question being answered. Here's a list of some of them and notes on tuning.
+
 ![alt text](https://github.com/dformoso/deeplearning-mindmap/blob/master/images/architecture.png)
 
 ## 3. Tensorflow
 TensorFlow is an open source software library for numerical computation using data flow graphs. The mindmap lists some of its components, packages, and overall architecture.
+
 ![alt text](https://github.com/dformoso/deeplearning-mindmap/blob/master/images/tensorflow.png)
 
 ## About Me
