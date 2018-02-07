@@ -1,4 +1,4 @@
-# Deep Learning Mindmap / Cheatsheet
+# Deep Learning Mindmap / Cheatsheet - BETA
 A Mindmap summarising Deep Learning concepts, Architectures, and the Tensorflow library.
 
 ## Overview
