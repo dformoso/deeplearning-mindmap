@@ -45,12 +45,12 @@ I'm planning to built a more complete list of references in the future. For now,
 - Multiple Wikipedia articles.
 
 
-## About Me
+## About Me and My Contact Info
 Twitter:
-- https://twitter.com/danielmartinezf
+> https://twitter.com/danielmartinezf
 
 Linkedin:
-- https://www.linkedin.com/in/danielmartinezformoso/
+> https://www.linkedin.com/in/danielmartinezformoso/
 
 Email:
-- daniel.martinez.formoso@gmail.com
+> daniel.martinez.formoso@gmail.com
